@@ -1,4 +1,4 @@
-# 📊 Customer Support Ticket Analysi
+# 📊 Customer Support Ticket Analysis
 
 ## Objective
 
